@@ -217,7 +217,6 @@ nav ul li a:hover::after{
 
 .proj-logo{
     height: 70%;
-    width: 60%;
     border-radius: 20px;
     object-fit: fill;
     margin: 10px 0;
